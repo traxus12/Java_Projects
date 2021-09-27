@@ -31,5 +31,14 @@ public class DataTypes{
 		stack.push("2");
 		stack.push("hello");
 		System.out.println(Arrays.toString(stack.toArray()));
+		System.out.println(a+b+c+d+e+f);
+		System.out.println(g);
+		System.out.println(h);
+		System.out.println(integerArrayA);
+		System.out.println(integerArrayB);
+		System.out.println(integerArrayC);
+		System.out.println(testString);
+
+
 	}
 }
